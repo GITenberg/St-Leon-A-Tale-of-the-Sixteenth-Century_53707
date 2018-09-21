@@ -1,0 +1,32 @@
+_repo: St-Leon-A-Tale-of-the-Sixteenth-Century_53707
+_version: 0.0.1
+alternative_title: 'Saint Leon: A Tale of the 16th Century'
+creator:
+  author:
+    agent_name: Godwin, William
+    alias: Baldwin, Edward
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '380'
+    url: http://www.gutenberg.org/2009/agents/380
+    wikipedia: http://en.wikipedia.org/wiki/William_Godwin
+description: ''
+gutenberg_issued: '2016-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Alchemists -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Reformation -- Fiction'
+- !lcsh 'Gothic fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Europe -- History -- 1517-1648 -- Fiction'
+- GITenberg
+title: 'St. Leon: A Tale of the Sixteenth Century'
+url: http://www.gutenberg.org/ebooks/53707
